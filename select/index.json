@@ -1,8 +1,8 @@
 {
   "version": 1,
   "base_track": "abnormalize",
-  "base_artist": "Ling tosite sigure",
-  "createdAt": "2026-02-20T07:21:08.318148Z",
+  "base_artist": "凛として時雨",
+  "createdAt": "2026-02-20T07:21:26.216322Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -83,78 +83,6 @@
       "artist": "凛として時雨",
       "has_synced": false,
       "path": "select/pl_01_abnormalize_凛として時雨.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "abnormalize",
-      "artist": "凛として時雨",
-      "has_synced": false,
-      "path": "select/pl_02_abnormalize_凛として時雨.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "Abnormalize",
-      "artist": "凛として時雨",
-      "has_synced": false,
-      "path": "select/pl_03_Abnormalize_凛として時雨.txt"
-    },
-    {
-      "id": "petitlyrics_4",
-      "source": "petitlyrics",
-      "title": "abnormalize",
-      "artist": "凛として時雨",
-      "has_synced": false,
-      "path": "select/pl_04_abnormalize_凛として時雨.txt"
-    },
-    {
-      "id": "petitlyrics_5",
-      "source": "petitlyrics",
-      "title": "abnormalize",
-      "artist": "凛として時雨",
-      "has_synced": false,
-      "path": "select/pl_05_abnormalize_凛として時雨.txt"
-    },
-    {
-      "id": "petitlyrics_6",
-      "source": "petitlyrics",
-      "title": "abnormalize",
-      "artist": "凛として時雨",
-      "has_synced": false,
-      "path": "select/pl_06_abnormalize_凛として時雨.txt"
-    },
-    {
-      "id": "petitlyrics_7",
-      "source": "petitlyrics",
-      "title": "abnormalize",
-      "artist": "凛として時雨",
-      "has_synced": false,
-      "path": "select/pl_07_abnormalize_凛として時雨.txt"
-    },
-    {
-      "id": "petitlyrics_8",
-      "source": "petitlyrics",
-      "title": "abnormalize",
-      "artist": "凛として時雨",
-      "has_synced": false,
-      "path": "select/pl_08_abnormalize_凛として時雨.txt"
-    },
-    {
-      "id": "petitlyrics_9",
-      "source": "petitlyrics",
-      "title": "abnormalize",
-      "artist": "凛として時雨",
-      "has_synced": false,
-      "path": "select/pl_09_abnormalize_凛として時雨.txt"
-    },
-    {
-      "id": "petitlyrics_10",
-      "source": "petitlyrics",
-      "title": "abnormalize -TV size ver.-(1分29秒)",
-      "artist": "凛として時雨",
-      "has_synced": false,
-      "path": "select/pl_10_abnormalize_-TV_size_ver.-(1分29秒)_凛として時雨.txt"
     }
   ]
 }
