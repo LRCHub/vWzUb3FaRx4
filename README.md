@@ -1,4 +1,4 @@
-# Ling tosite sigure – abnormalize
+# 凛として時雨 – abnormalize
 
 > **歌詞登録ステータス：同期歌詞あり**
 
