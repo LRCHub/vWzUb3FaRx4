@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "abnormalize",
+  "base_artist": "Ling tosite sigure",
+  "createdAt": "2026-02-20T07:21:08.318148Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "abnormalize",
+      "artist": "Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/01_abnormalize_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "abnormalize",
+      "artist": "Ling Toshite Shigure",
+      "has_synced": true,
+      "path": "select/02_abnormalize_Ling_Toshite_Shigure.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "abnormalize (TV edit)",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/03_abnormalize_(TV_edit)_凛として時雨.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "abnormalize (remastered at METROPOLIS)",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/04_abnormalize_(remastered_at_METROPOLIS)_凛として時雨.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Abnormalize",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/05_Abnormalize_凛として時雨.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "abnormalize",
+      "artist": "Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/06_abnormalize_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "abnormalize - Remixed by 中野雅之(BOOM BOOM SATELLITES)",
+      "artist": "Ling tosite sigure feat. Masayuki Nakano (Boom Boom Satellites)",
+      "has_synced": true,
+      "path": "select/07_abnormalize_-_Remixed_by_中野雅之(BOOM_BOOM_SATELLITES)_Ling_tosite_sigure_feat._Masayuki_Nakano_(Boom_Boom_Satellites).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Abnormalize - Remixed by 中野雅之(BOOM BOOM SATELLITES)",
+      "artist": "Ling Tosite Sigure",
+      "has_synced": true,
+      "path": "select/08_Abnormalize_-_Remixed_by_中野雅之(BOOM_BOOM_SATELLITES)_Ling_Tosite_Sigure.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Abnormalize (Best of Tornado Remastering)",
+      "artist": "Ling tosite sigure",
+      "has_synced": true,
+      "path": "select/09_Abnormalize_(Best_of_Tornado_Remastering)_Ling_tosite_sigure.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "abnormalize",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_01_abnormalize_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "abnormalize",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_02_abnormalize_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Abnormalize",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_03_Abnormalize_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "abnormalize",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_04_abnormalize_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "abnormalize",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_05_abnormalize_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "abnormalize",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_06_abnormalize_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "abnormalize",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_07_abnormalize_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "abnormalize",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_08_abnormalize_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "abnormalize",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_09_abnormalize_凛として時雨.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "abnormalize -TV size ver.-(1分29秒)",
+      "artist": "凛として時雨",
+      "has_synced": false,
+      "path": "select/pl_10_abnormalize_-TV_size_ver.-(1分29秒)_凛として時雨.txt"
+    }
+  ]
+}
